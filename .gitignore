@@ -1,3 +1,5 @@
 .idea
 .vscode
 .env
+REST_REQUEST.json
+test_machine.py
