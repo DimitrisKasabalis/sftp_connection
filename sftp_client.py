@@ -52,5 +52,3 @@ for row in dirlist:
     print(row)
 
 sftpclient.close()
-
-productsList = ["S02P02", "S06P01", "S06P04"]
